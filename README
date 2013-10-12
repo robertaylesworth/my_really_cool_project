@@ -1,3 +1,9 @@
-This project totallly rocks!
+<<<<<<< HEAD
+This project seriously rocks!
 
 This is Rob's Trrehouse project to help learn about Git.
+=======
+This project seriously rocks!
+Seriously you guys!
+This is Rob's Treehouse project to help learn about Git.
+>>>>>>> foo_feature
